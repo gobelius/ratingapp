@@ -1,0 +1,19 @@
+{
+  "feedback": [
+    {
+      "text": "sample rating 1",
+      "rating": 10,
+      "id": 1
+    },
+    {
+      "text": "sample rating 2",
+      "rating": 9,
+      "id": 2
+    },
+    {
+      "text": "sample rating 3",
+      "rating": 8,
+      "id": 3
+    }
+  ]
+}
